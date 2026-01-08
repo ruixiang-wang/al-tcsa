@@ -1,0 +1,27 @@
+# requirements for AI-TCSA project
+# Tested with Python 3.10+
+
+# core scientific stack
+numpy
+pandas
+
+# classical ML models & utilities
+scikit-learn
+xgboost
+scikit-optimize
+joblib
+
+# visualization & interpretability
+matplotlib
+seaborn
+shap
+
+# deep learning (if you use the torch-based parts)
+torch
+
+# config / IO
+pyyaml
+openpyxl
+
+# testing
+pytest
